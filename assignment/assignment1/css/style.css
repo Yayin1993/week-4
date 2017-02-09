@@ -1,0 +1,29 @@
+h1{
+  font-size:36px;
+  font-family:Impact;
+}
+h2{
+  font-size:20px;
+  font-family:Segoe UI Black;
+}
+p{
+  font-size:16px;
+  font-family:Berlin Sans FB;
+}
+span{
+  color:grey;
+}
+#title{
+  margin-bottom:30px;
+}
+.school{
+  background-color:#B9D7D9;
+  width:300px;
+  height:200px;
+  vertical-align: middle;
+  padding-top:2px;
+  padding-left:15px;
+  padding-bottom:10px;
+  margin-bottom:10px;
+
+}
